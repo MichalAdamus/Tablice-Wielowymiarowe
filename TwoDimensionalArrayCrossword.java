@@ -46,7 +46,7 @@ public static void main(String args[]){
 	
 	/* Ad 4 - wyświetl długość drugiego hasła krzyżówki*/;
 	System.out.println();
-	System.out.println("Długość drugiego hasła krzyzówki ma"+ "" + animals[1].length+ "" +"litery");
+	System.out.println("Długość drugiego hasła krzyzówki ma"+ "" + animals[1].length+""+"litery");
 		
 	/* Ad 5 - wyświetl całą krzyżówkę */
 	System.out.println();
