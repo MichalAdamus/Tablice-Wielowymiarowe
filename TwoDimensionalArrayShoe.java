@@ -2,7 +2,7 @@ class TwoDimensionalArrayShoe {
 
 	public static void main (String args[]){
 	
-	    char[][] tab = new char [3][4];
+	    char[][] tab = new char [3][];
                tab [0] = new char[4];
                tab [1] = new char[2];
                tab [2] = new char[5];
